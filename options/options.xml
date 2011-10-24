@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="OptionsEditor.50.24.1390.876" x="117" y="24" />
+    <location key="#com.intellij.ide.actionMacro.EditMacrosDialog.50.24.1390.876" x="601" y="279" />
+    <location key="#PHP.50.24.1390.876" x="499" y="119" />
+    <location key="OptionsEditor.58.24.1382.876" x="65" y="47" />
+    <location key="replaceTextDialog.58.24.1382.876" x="441" y="233" />
+    <location key="OptionsEditor" x="-1" y="-29" />
+    <location key="FileChooserDialogImpl" x="532" y="205" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.58.24.1382.876" x="458" y="312" />
+    <location key="FileChooserDialogImpl.50.24.1390.876" x="525" y="201" />
+    <location key="CommitChangelistDialog.50.24.1390.876" x="310" y="201" />
+    <location key="DiffWindow.50.24.1390.876" x="422" y="234" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.50.24.1390.876" x="-1" y="-29" />
+    <location key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.50.24.1390.876" x="614" y="212" />
+    <size key="OptionsEditor.50.24.1390.876" width="1220" height="876" />
+    <size key="CommitChangelistDialog.50.24.1390.876" width="857" height="527" />
+    <size key="DiffWindow.50.24.1390.876" width="618" height="454" />
+    <size key="#com.intellij.ide.actionMacro.EditMacrosDialog.50.24.1390.876" width="283" height="366" />
+    <size key="#PHP.50.24.1390.876" width="470" height="657" />
+    <size key="OptionsEditor.58.24.1382.876" width="1218" height="853" />
+    <size key="replaceTextDialog.58.24.1382.876" width="602" height="422" />
+    <size key="FileChooserDialogImpl" width="418" height="485" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.58.24.1382.876" width="613" height="394" />
+    <size key="FileChooserDialogImpl.50.24.1390.876" width="418" height="522" />
+    <size key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.50.24.1390.876" width="518" height="490" />
+    <extendedState key="#XsltSupport.AssociationsEditor" state="200" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.incors.plaf.alloy.AlloyBedouin" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.2" value="14" />
+    <property name="Non-Project Files" value="ffffe4" />
+    <property name="installation.uid" value="4e993df7-b4bc-4a73-b1df-db4ec861c26d" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION" value="0.5" />
+    <property name="Tests" value="e7fadb" />
+    <property name="file.colors.enable.tests" value="e7fadb" />
+    <property name="file.colors.enable.non.project" value="ffffe4" />
+  </component>
+</application>
+

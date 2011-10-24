@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="php-debug-extension-remote">
+      <project id="init" values="xdebug" />
+    </group>
+    <group name="deployment server">
+      <project id="init" values="LOCAL" />
+    </group>
+    <group name="module type">
+      <project id="init" values="WEB_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="init" values="Git" />
+    </group>
+    <group name="php-servers">
+      <project id="init" values="2" />
+    </group>
+    <group name="php-version">
+      <project id="init" values="not installed" />
+    </group>
+    <group name="php-include-path">
+      <project id="init" values="1" />
+    </group>
+    <group name="php-debug-extension-local">
+      <project id="init" values="xdebug" />
+    </group>
+  </component>
+</application>
+
