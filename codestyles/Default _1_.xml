@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="Default (1)">
+  <PHPCodeStyleSettings>
+    <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
+  </PHPCodeStyleSettings>
   <ADDITIONAL_INDENT_OPTIONS fileType="css">
     <option name="INDENT_SIZE" value="2" />
     <option name="CONTINUATION_INDENT_SIZE" value="8" />
