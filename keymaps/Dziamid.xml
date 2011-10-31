@@ -3,6 +3,10 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="control alt W" />
   </action>
+  <action id="GotoNextError" />
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="F2" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
   </action>
@@ -17,6 +21,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="WelcomeScreen.ReopenRecent">
+    <keyboard-shortcut first-keystroke="shift control O" />
   </action>
 </keymap>
 
