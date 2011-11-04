@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Default copy" parent="$default">
   <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt W" />
+  </action>
+  <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="control alt W" />
   </action>
   <action id="GotoNextError" />
