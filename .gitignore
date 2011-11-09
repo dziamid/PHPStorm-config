@@ -9,3 +9,4 @@ tasks
 tools
 port
 options
+*.key
