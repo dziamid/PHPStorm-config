@@ -18,95 +18,58 @@
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
   </PHPCodeStyleSettings>
-  <ADDITIONAL_INDENT_OPTIONS fileType="css">
-    <option name="INDENT_SIZE" value="2" />
-    <option name="CONTINUATION_INDENT_SIZE" value="8" />
-    <option name="TAB_SIZE" value="2" />
-    <option name="USE_TAB_CHARACTER" value="false" />
-    <option name="SMART_TABS" value="false" />
-    <option name="LABEL_INDENT_SIZE" value="0" />
-    <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-    <option name="USE_RELATIVE_INDENTS" value="false" />
-  </ADDITIONAL_INDENT_OPTIONS>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <ADDITIONAL_INDENT_OPTIONS fileType="haml">
     <option name="INDENT_SIZE" value="2" />
-    <option name="CONTINUATION_INDENT_SIZE" value="8" />
-    <option name="TAB_SIZE" value="4" />
-    <option name="USE_TAB_CHARACTER" value="false" />
-    <option name="SMART_TABS" value="false" />
-    <option name="LABEL_INDENT_SIZE" value="0" />
-    <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-    <option name="USE_RELATIVE_INDENTS" value="false" />
-  </ADDITIONAL_INDENT_OPTIONS>
-  <ADDITIONAL_INDENT_OPTIONS fileType="js">
-    <option name="INDENT_SIZE" value="2" />
-    <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    <option name="TAB_SIZE" value="2" />
-    <option name="USE_TAB_CHARACTER" value="false" />
-    <option name="SMART_TABS" value="false" />
-    <option name="LABEL_INDENT_SIZE" value="0" />
-    <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-    <option name="USE_RELATIVE_INDENTS" value="false" />
-  </ADDITIONAL_INDENT_OPTIONS>
-  <ADDITIONAL_INDENT_OPTIONS fileType="jsp">
-    <option name="INDENT_SIZE" value="4" />
-    <option name="CONTINUATION_INDENT_SIZE" value="8" />
-    <option name="TAB_SIZE" value="4" />
-    <option name="USE_TAB_CHARACTER" value="false" />
-    <option name="SMART_TABS" value="false" />
-    <option name="LABEL_INDENT_SIZE" value="0" />
-    <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-    <option name="USE_RELATIVE_INDENTS" value="false" />
-  </ADDITIONAL_INDENT_OPTIONS>
-  <ADDITIONAL_INDENT_OPTIONS fileType="php">
-    <option name="INDENT_SIZE" value="2" />
-    <option name="CONTINUATION_INDENT_SIZE" value="8" />
-    <option name="TAB_SIZE" value="2" />
-    <option name="USE_TAB_CHARACTER" value="false" />
-    <option name="SMART_TABS" value="false" />
-    <option name="LABEL_INDENT_SIZE" value="0" />
-    <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-    <option name="USE_RELATIVE_INDENTS" value="false" />
   </ADDITIONAL_INDENT_OPTIONS>
   <ADDITIONAL_INDENT_OPTIONS fileType="sass">
     <option name="INDENT_SIZE" value="2" />
-    <option name="CONTINUATION_INDENT_SIZE" value="8" />
-    <option name="TAB_SIZE" value="4" />
-    <option name="USE_TAB_CHARACTER" value="false" />
-    <option name="SMART_TABS" value="false" />
-    <option name="LABEL_INDENT_SIZE" value="0" />
-    <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-    <option name="USE_RELATIVE_INDENTS" value="false" />
-  </ADDITIONAL_INDENT_OPTIONS>
-  <ADDITIONAL_INDENT_OPTIONS fileType="sql">
-    <option name="INDENT_SIZE" value="2" />
-    <option name="CONTINUATION_INDENT_SIZE" value="8" />
-    <option name="TAB_SIZE" value="4" />
-    <option name="USE_TAB_CHARACTER" value="false" />
-    <option name="SMART_TABS" value="false" />
-    <option name="LABEL_INDENT_SIZE" value="0" />
-    <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-    <option name="USE_RELATIVE_INDENTS" value="false" />
-  </ADDITIONAL_INDENT_OPTIONS>
-  <ADDITIONAL_INDENT_OPTIONS fileType="xml">
-    <option name="INDENT_SIZE" value="4" />
-    <option name="CONTINUATION_INDENT_SIZE" value="8" />
-    <option name="TAB_SIZE" value="4" />
-    <option name="USE_TAB_CHARACTER" value="false" />
-    <option name="SMART_TABS" value="false" />
-    <option name="LABEL_INDENT_SIZE" value="0" />
-    <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-    <option name="USE_RELATIVE_INDENTS" value="false" />
   </ADDITIONAL_INDENT_OPTIONS>
   <ADDITIONAL_INDENT_OPTIONS fileType="yml">
     <option name="INDENT_SIZE" value="2" />
-    <option name="CONTINUATION_INDENT_SIZE" value="8" />
     <option name="TAB_SIZE" value="2" />
-    <option name="USE_TAB_CHARACTER" value="false" />
-    <option name="SMART_TABS" value="false" />
-    <option name="LABEL_INDENT_SIZE" value="0" />
-    <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-    <option name="USE_RELATIVE_INDENTS" value="false" />
   </ADDITIONAL_INDENT_OPTIONS>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="CoffeeScript">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
 
