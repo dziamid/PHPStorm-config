@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="html/xml">
-  <template name="[[" value="{% $end$ %}" description="Insert twig do tags" toReformat="false" toShortenFQNames="true">
+  <template name="\" value="{% $end$ %}" description="Insert twig do tags" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="true" />
@@ -16,7 +16,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="[[b" value="{% block $name$ %}&#10;  $END$&#10;{% endblock %}&#10;" description="Insert twig block statement" toReformat="false" toShortenFQNames="true">
+  <template name="\b" value="{% block $name$ %}&#10;  $END$&#10;{% endblock %}&#10;" description="Insert twig block statement" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="true" />
@@ -32,7 +32,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="[" value="{{ $end$ }}" description="Insert twig say tag" toReformat="false" toShortenFQNames="true">
+  <template name="[" value="{{ $end$ }}" description="Insert twig say tag" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="true" />
